@@ -19,7 +19,7 @@ namespace QL_sald
 
         private void tabPage1_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
 
         private void menu_cafe_Load(object sender, EventArgs e)
